@@ -5,11 +5,14 @@
 ## **Getting Starte**
 
 These instructions will [install python] on your local machine for [the purpose of running a python demo]
+The python download can be found at:
+
+https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe
 
 ### **Prerequisites**
 
 [Python] requires [Windows 7 or later to run version 2.7 python 3 requires windows 8.1, or 10] to run,
- with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or run the *.py file]
+ with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
 
 ## Install
 
@@ -31,15 +34,16 @@ C  :\YourName\Projects\Python>
 *then type py at the boot drive prompt as shown above.
 
 ```
-python cna_demo.py
+mypython.py
+
+https://github.com/mjtomlinson/CNE_310-MattTomlinson-/blob/main/mypython.py
 ```
 
-Add any additional ways to run the program below
+aAdditional ways to run the program below
 
 ```
-Mypython.py
+mypython.py test.txt
 ```
 
 ## Thanks
-
-I thank everyone who helped me complete this project.
+Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
