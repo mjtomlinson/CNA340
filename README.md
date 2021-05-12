@@ -2,7 +2,9 @@
 # Windows 10 Python install Guide
 
 
-## **Getting Starte**
+
+## **Getting Started**
+=======
 
 These instructions will install python on your local machine for the purpose of running a python demo.
 
@@ -29,14 +31,14 @@ and the “python3” command when you want to use Python 3.
 Once installed you can run the program with the following command
 
 C:\Users\YourName> py
-C  :\YourName\Projects\Python>
+C:\YourName\Projects\Python>
 
 *Your command prompt my vary depending on the setup of your windows computer.
 *Just make sure you start at your Boot drive Prompt such as C:/ or D:/
 *then type py at the boot drive prompt as shown above.
 
 ```
-python cna_demo.py
+mypython.py test.test
 ```
 
 Add any additional ways to run the program below
