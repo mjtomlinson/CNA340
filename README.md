@@ -39,11 +39,11 @@ mypython.py
 https://github.com/mjtomlinson/CNE_310-MattTomlinson-/blob/main/mypython.py
 ```
 
-aAdditional ways to run the program below
+Additional ways to run the program below
 
 ```
 mypython.py test.txt
 ```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+I thank everyone who helped me complete this project.
