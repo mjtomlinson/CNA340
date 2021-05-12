@@ -4,15 +4,15 @@
 
 ## **Getting Starte**
 
-These instructions will [install python] on your local machine for [the purpose of running a python demo]
+These instructions will install python on your local machine for the purpose of running a python demo
 The python download can be found at:
 
 https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe
 
 ### **Prerequisites**
 
-[Python] requires [Windows 7 or later to run version 2.7 python 3 requires windows 8.1, or 10] to run,
- with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+Python requires Windows 7 or later to run version 2.7 python 3 requires windows 8.1, or 10 to run,
+ with additional packages, libaries, or mods. The commands below will upgrade OS and install the prerequisites, or run the *.py file
 
 ## Install
 
